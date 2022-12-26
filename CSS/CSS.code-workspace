@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../DOM"
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../JS"
+		},
+		{
+			"path": "../Task"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSS",
+		"liveServer.settings.port": 5501
+	}
+}

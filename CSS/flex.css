@@ -1,0 +1,21 @@
+.main-flex{
+    border :2px solid red;
+    margin :30px;
+    padding:25px;
+    height:100vh;
+    display : flex;
+
+
+justify-content: center ;
+align-items : center;
+
+
+}
+
+.flex-div{
+    border:2px solid blue;
+    width : 100px;
+    height : 100px;
+
+}
+
